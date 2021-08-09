@@ -8,14 +8,11 @@ The hope remains in one last stand, a battle for it all. The future lies in what
 
 You are part of the last resistance. On you depends the fate of humanity; Posterity begs your success! Being an AI-master, you set out to develop a tool which will be furnished by every man, woman, and child in your army--a portable battle assessor. The gadget will work like so:
 
-Given the number of each respective monster attacking the person carrying the gadget (zombies, spirits, spiders, and ghouls) and his or her Strength (0-9 scale), it will predict whether the person or the monsters will win the engagement. An example:
+Given the number of each respective monster attacking the person carrying the gadget (zombies, spirits, spiders, and ghouls) and his or her Strength (1-25 scale), it will predict whether the person or the monsters will win the engagement. An example:
 
 Given this data,
 
-Strength - 7; Zombies - 3;
-Spirits - 2;
-Spiders - 3;
-Ghouls - 1,
+Strength - 7; Zombies - 3; Spirits - 2; Spiders - 3; Ghouls - 1,
 
 your gadget should predict either ‘1’ for human win or ‘0’ for monster win.
 
