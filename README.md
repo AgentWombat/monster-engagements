@@ -26,7 +26,7 @@ You must develop a Python function predict(strength, num_zombies, num_spirits, n
 
 You will be given
 
-* A dataset containing examples wherein the human won an engagement and examples wherein the monsters won an engagement. Each entree is formatted [[#zombies,#spirits,#spiders,#ghouls],outcome]
+* A dataset containing examples wherein the human won an engagement and examples wherein the monsters won an engagement. Each entree is formatted [[strength, #zombies,#spirits,#spiders,#ghouls],outcome]
 * An example function which (poorly) addresses the problem at hand.
 * A script to evaluate your function's performance. (This is NOT the same evaluator your function will ultimately face)
 
